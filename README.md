@@ -1,7 +1,7 @@
 ## Awesome Design
 
 An ever-growing/changing collection of tools, resources, tutorials, guidelines and examples for digital designers. 
-
+-----------
 - [Resources](#resources)
     - [General Resources](#general-resources)
     - [Colors](#colors)
@@ -23,7 +23,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 
 
 ### Resources
-
+-----------
 #### General Resources
 * [16:9 Aspect Ratio Calculator](http://size43.com/jqueryVideoTool.html)
 * [Character Entities](http://brajeshwar.github.io/entities/)
@@ -99,7 +99,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 
 
 ### Bookmarklets
-
+-----------
 #### General Extensions
 * [ColorZilla](http://www.colorzilla.com/)
 * [Colorize Text Between 45-75 Characters](http://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/)
