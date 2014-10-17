@@ -1,6 +1,4 @@
-# Logs
-logs
+.DS_Store
+node_modules
 *.log
-
-# Text file
 *.txt
