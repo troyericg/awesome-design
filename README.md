@@ -1,7 +1,7 @@
 ## Awesome Design
 
 An ever-growing/changing collection of tools, resources, tutorials, guidelines and examples for digital designers. 
------------
+
 - [Resources](#resources)
     - [General Resources](#general-resources)
     - [Colors](#colors)
