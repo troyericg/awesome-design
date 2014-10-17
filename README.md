@@ -12,7 +12,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
     - [Typography](#typography)
 - [Bookmarklets](#bookmarklets)
     - [General Extensions](#general-extensions)
-    - [Chrome Extensions](#chrome-extensions)
+    - [Chrome-Only Extensions](#chrome-only-extensions)
 - [Videos](#videos)
 - [Books](#books)
 - [Demos](#demos)
@@ -104,11 +104,11 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [ColorZilla](http://www.colorzilla.com/)
 * [Colorize Text Between 45-75 Characters](http://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/)
 * [RWD Bookmarklet](http://responsive.victorcoulon.fr/)
-
-#### Chrome Extensions
 * [Type Sample](http://www.typesample.com/)
-* [Webpage Screenshot](http://www.webpagescreenshot.info/)
 * [WhatFont](http://chengyinliu.com/whatfont.html)
+
+#### Chrome-Only Extensions
+* [Webpage Screenshot](http://www.webpagescreenshot.info/)
 
 
 ### Videos
