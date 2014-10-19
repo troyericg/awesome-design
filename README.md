@@ -78,16 +78,14 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [PlaceKitten](http://placekitten.com/)
 
 #### Typography
-* [Beautiful Web Type (Google Fonts)](http://hellohappy.org/beautiful-web-type/)
 * [Font Stacks 1](http://css-tricks.com/snippets/css/font-stacks/)
 * [Font Stacks 2](http://cssfontstack.com/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 * [Google Web Fonts](http://www.google.com/fonts/)
 * [Gridlover (tool to establish a typographic system with modular scale and vertical rhythm)](http://www.gridlover.net/app/)
-* [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/)
 * [I Font You: Find Great Font Combinations](http://ifontyou.com/)
 * [Jan Tschichold’s Penguin Composition Rules adapted for web writing](http://www.stephenhawkes.com/2013/08/23/jan-tschicholds-penguin-composition-rules-adapted-web-writing/)
-* [Just My Type (font pairings)](http://justmytype.co/)
+* [Medium-style customizable, retina-pixel underlining](http://codepen.io/ghepting/pen/tLnHK/)
 * [Modular Scale](http://modularscale.com/)
 * [Normalize-OpenType.css](http://kennethormandy.com/journal/normalize-opentype-css)
 * [Open Typography: Font List (fonts with OpenType features)](http://opentypography.org/fontlist.html)
@@ -114,27 +112,32 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 
 
 ### Videos
-TK
+* TK
 
 
 ### Books
-TK
+* TK
 
 
 ### Demos
-TK
+* TK
 
 
 ### Examples
 -----------
 #### General 
+* TK
+
 #### Typographic 
+* [Beautiful Web Type (Google Fonts)](http://hellohappy.org/beautiful-web-type/)
+* [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/)
+* [Just My Type (font pairings)](http://justmytype.co/)
 * [Typ.io - Fonts that go together](http://www.typ.io/)
 * [Typewolf](http://www.typewolf.com/)
 
 
 ### Guidelines
-TK
+* TK
 
 
 ### Other Lists
