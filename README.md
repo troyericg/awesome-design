@@ -30,6 +30,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [16:9 Aspect Ratio Calculator](http://size43.com/jqueryVideoTool.html)
 * [Character Entities](http://brajeshwar.github.io/entities/)
 * [Convert Case](http://convertcase.net/)
+* [Cursors - All available cursors](http://chrisnager.github.io/cursors/)
 * [Domainr (vanity url finder)](https://domai.nr/)
 * [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 * [iPhone Resolution](http://www.iphoneresolution.com/)
@@ -76,6 +77,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [LICEcap: simple animated screen captures](http://www.cockos.com/licecap/)
 * [PLACEHOLD.IT](http://placehold.it/)
 * [PlaceKitten](http://placekitten.com/)
+* [ZorroSVG - The transparency of PNGs for the file size of JPEGs](http://quasimondo.com/ZorroSVG/)
 
 #### Typography
 * [Font Stacks 1](http://css-tricks.com/snippets/css/font-stacks/)
@@ -92,6 +94,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [Scale & Rhythm](http://lamb.cc/typograph/)
 * [Spaces - from zero-width to em space](http://www.aresluna.org/spaces/)
 * [Type Connection: Matches](http://www.typeconnection.com/matches.php)
+* [Type Genius](http://www.typegenius.com/)
 * [Type Scale](http://type-scale.com/)
 * [Typekit Lists](https://typekit.com/lists)
 * [Web Font Combinator](http://font-combinator.com/)
