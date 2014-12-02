@@ -93,6 +93,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [Open Typography: Font List (fonts with OpenType features)](http://opentypography.org/fontlist.html)
 * [Scale & Rhythm](http://lamb.cc/typograph/)
 * [Spaces - from zero-width to em space](http://www.aresluna.org/spaces/)
+* [The State of Web Type](http://stateofwebtype.com/beta/)
 * [Type Connection: Matches](http://www.typeconnection.com/matches.php)
 * [Type Genius](http://www.typegenius.com/)
 * [Type Scale](http://type-scale.com/)
