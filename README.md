@@ -58,6 +58,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [CSS Color Names](http://www.w3schools.com/cssref/css_colornames.asp)
 * [CSS FilterLab](http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/)
 * [CSS Values](http://cssvalues.com/)
+* [CSS Color Property](https://www.scaler.com/topics/text-color-in-css/)
 
 #### Grids/Structure
 * [960 Grid Generator](http://960.gs/)
