@@ -80,6 +80,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [ZorroSVG - The transparency of PNGs for the file size of JPEGs](http://quasimondo.com/ZorroSVG/)
 
 #### Typography
+* [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - Free browser tool for comparing script, heading and body font combinations.
 * [Font Stacks 1](http://css-tricks.com/snippets/css/font-stacks/)
 * [Font Stacks 2](http://cssfontstack.com/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
