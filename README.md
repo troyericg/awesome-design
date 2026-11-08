@@ -42,6 +42,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 #### Colors
 * [0 to 255](http://0to255.com/)
 * [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/)
+* [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) - Compare relative luminance, HSP brightness, luma, and two-color contrast.
 * [Color Brewer (for maps)](http://colorbrewer2.org/)
 * [Color Lovers](http://www.colourlovers.com/)
 * [Color Scheme Designer](http://colorschemedesigner.com/)
