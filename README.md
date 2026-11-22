@@ -78,6 +78,7 @@ An ever-growing/changing collection of tools, resources, tutorials, guidelines a
 * [PLACEHOLD.IT](http://placehold.it/)
 * [PlaceKitten](http://placekitten.com/)
 * [ZorroSVG - The transparency of PNGs for the file size of JPEGs](http://quasimondo.com/ZorroSVG/)
+* [PixelArtHive](https://pixelarthive.com/) - Free browser-based image-to-pixel-art conversion and pixel art upscaling, with local image processing.
 
 #### Typography
 * [Font Stacks 1](http://css-tricks.com/snippets/css/font-stacks/)
